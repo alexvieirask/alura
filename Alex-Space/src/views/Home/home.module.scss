@@ -1,0 +1,41 @@
+@import "../../styles/_vars.scss"; 
+
+main {
+    margin: 0 24px;
+  }
+  
+  .main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 2rem;
+  
+    &__img {
+      width: 88%;
+      img {
+        width: 100%;
+        height: 288px;
+      }
+  
+      position: relative;
+  
+      h1 {
+        position: absolute;
+        z-index: 1;
+        color: $text-color;
+        font-size: 2.5rem;
+        width: 401px;
+        height: 144px;
+        top: 75px;
+        left: 44px;
+      }
+    }
+  }
+
+  .galery {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-left: 17%;
+    margin-top: 1rem;
+  }

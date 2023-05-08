@@ -1,0 +1,30 @@
+@import "../../styles/_vars.scss";
+
+.tags {
+  width: 65vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: $text-color;
+  font-family: $regular-font;
+  font-size: 16px;
+
+  p {
+    font-size: 1.25rem;
+  }
+
+  &__list {
+    list-style: none;
+    width: 380px;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+
+    li {
+      background-color: $tag-color;
+      padding: 6px 10px;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+  }
+}

@@ -1,0 +1,3 @@
+# Arquivos Java compilados
+*.class
+.vscode/*

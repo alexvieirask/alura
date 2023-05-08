@@ -1,0 +1,72 @@
+[
+    {
+      "title": "Name of picture",
+      "credits": "Alex Space",
+      "img": "img/galery/picture-1.png",
+      "id": "1",
+      "tag": "Galaxy"
+    },
+    {
+      "title": "Name of picture",
+      "credits": "Alex Space",
+      "img": "img/galery/picture-2.png",
+      "id": "2",
+      "tag": "Stars"
+    },
+    {
+      "title": "Name of picture",
+      "credits": "Alex Space",
+      "img": "img/galery/picture-3.png",
+      "id": "3",
+      "tag": "Moon"
+    },
+    {
+      "title": "Name of picture",
+      "credits": "Alex Space",
+      "img": "img/galery/picture-4.png",
+      "id": "4",
+      "tag": "Galaxy"
+    },
+    {
+      "title": "Name of picture",
+      "credits": "Alex Space",
+      "img": "img/galery/picture-5.png",
+      "id": "5",
+      "tag": "Stars"
+    },
+    {
+      "title": "Name of picture",
+      "credits": "Alex Space",
+      "img": "img/galery/picture-6.png",
+      "id": "6",
+      "tag": "Nebulous"
+    },
+    {
+      "title": "Name of picture",
+      "credits": "Alex Space",
+      "img": "img/galery/picture-7.png",
+      "id": "7",
+      "tag": "Galaxy"
+    },
+    {
+      "title": "Name of picture",
+      "credits": "Alex Space",
+      "img": "img/galery/picture-8.png",
+      "id": "8",
+      "tag": "Nebulous"
+    },
+    {
+      "title": "Name of picture",
+      "credits": "Alex Space",
+      "img": "img/galery/picture-9.png",
+      "id": "9",
+      "tag": "Stars"
+    },
+    {
+      "title": "Name of picture",
+      "credits": "Alex Space",
+      "img": "img/galery/picture-10.png",
+      "id": "10",
+      "tag": "Stars"
+    }
+  ]

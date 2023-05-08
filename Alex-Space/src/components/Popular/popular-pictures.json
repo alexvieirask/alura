@@ -1,0 +1,27 @@
+[
+    {
+      "path": "img/popular/picture-1.png",
+      "alt": "galaxy",
+      "id": 1
+    },
+    {
+      "path": "img/popular/picture-2.png",
+      "alt": "moon",
+      "id": 2
+    },
+    {
+      "path": "img/popular/picture-3.png",
+      "alt": "earth",
+      "id": 3
+    },
+    {
+      "path": "img/popular/picture-4.png",
+      "alt": "cloud",
+      "id": 4
+    },
+    {
+      "path": "img/popular/picture-5.png",
+      "alt": "meteor",
+      "id": 5
+    }
+  ]
